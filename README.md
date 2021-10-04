@@ -1,7 +1,11 @@
-### **Hello There!**
+### **Hello There, I'm Ashton Koh!** 👋
 
-👋 I’m @Apocrypheus. I am a undergraduate student from Nanyang Technological University, Majoring in Environmental Engineering
-👀 I’m interested in geospatial and data analysis! (Specificially how these can be used in the field of environmental science and engineering)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=apocrypheus.apocrypheus&left_color=grey&right_color=orange)
+
+
+I am currently a undergraduate student from Nanyang Technological University, Majoring in Environmental Engineering. I am interested in geospatial and data analysis, specificially how these can be used in the field of environmental science and engineering. 
+
+I am currently picking up on the basics of data science and artificial intelligence as part of the curriculum.
 
 <!---
 Apocrypheus/Apocrypheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
