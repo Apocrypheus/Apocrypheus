@@ -1,7 +1,5 @@
 ### **Hello There, I'm Ashton Koh!** 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=apocrypheus.apocrypheus&left_color=grey&right_color=orange)
-
 
 I am currently a undergraduate student from Nanyang Technological University, Majoring in Environmental Engineering. I am interested in geospatial and data analysis, specificially how these can be used in the field of environmental science and engineering. 
 
