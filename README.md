@@ -1,4 +1,4 @@
-### **Hello There, I'm Ashton Koh!** 👋
+### **Hello There, I'm Ashton!** 👋
 
 
 I am currently a undergraduate student from Nanyang Technological University, Majoring in Environmental Engineering. I am interested in geospatial and data analysis, specificially how these can be used in the field of environmental science and engineering. 
